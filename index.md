@@ -22,7 +22,7 @@
 手合割：平手
 
 [棋譜をDL](kifs/20240413_01.kif)  
-<!-- [<img src="images/piyo_link.png" alt="piyo" width="100" />]() -->
+[<img src="images/piyo_link.png" alt="piyo" width="100" />](https://reqweldzen.github.io/OSC/kifs/20240413_01.kif)
 
 ### [第2局](https://kifu.co/eBVB)
 
@@ -32,7 +32,7 @@
 手合割：平手
 
 [棋譜をDL](kifs/20240413_02.kif)  
-<!-- [<img src="images/piyo_link.png" alt="piyo" width="100" />]() -->
+[<img src="images/piyo_link.png" alt="piyo" width="100" />](https://reqweldzen.github.io/OSC/kifs/20240413_02.kif)
 
 ### [第3局](https://kifu.co/O7d8)
 
@@ -42,7 +42,7 @@
 手合割：平手
 
 [棋譜をDL](kifs/20240413_03.kif)  
-<!-- [<img src="images/piyo_link.png" alt="piyo" width="100" />]() -->
+[<img src="images/piyo_link.png" alt="piyo" width="100" />](https://reqweldzen.github.io/OSC/kifs/20240413_03.kif)
 
 ### [第4局](https://kifu.co/8RL3)
 
@@ -52,4 +52,4 @@
 手合割：平手
 
 [棋譜をDL](kifs/20240413_04.kif)  
-<!-- [<img src="images/piyo_link.png" alt="piyo" width="100" />]() -->
+[<img src="images/piyo_link.png" alt="piyo" width="100" />](https://reqweldzen.github.io/OSC/kifs/20240413_04.kif)
