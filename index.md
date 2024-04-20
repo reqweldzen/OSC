@@ -4,10 +4,10 @@
 
 ### 第1局
 
-[![局面図](images/20240331_01_thumb.png)]()  
-[Shogi Playgroundで見る]()
+[![局面図](images/20240331_01_thumb.png)](https://kifu.co/p8r9)  
+[Shogi Playgroundで見る](https://kifu.co/p8r9)
 
-戦型：三間飛車-居飛車  
+戦型：向かい飛車-居飛車  
 手合割：平手
 
 [棋譜をDL](kifs/20240331_01.kif)  
@@ -15,10 +15,10 @@
 
 ### 第2局
 
-[![局面図](images/20240331_02_thumb.png)]()  
-[Shogi Playgroundで見る]()
+[![局面図](images/20240331_02_thumb.png)](https://kifu.co/rXmZ)  
+[Shogi Playgroundで見る](https://kifu.co/rXmZ)
 
-戦型：三間飛車-居飛車  
+戦型：居飛車-向かい飛車  
 手合割：平手
 
 [棋譜をDL](kifs/20240331_02.kif)  
