@@ -60,12 +60,10 @@
 
 ## 2024-04-20
 
-### 第1局
-
 [![局面図](images/20240420_01_thumb.png)](https://kifu.co/Agp4)  
 [Shogi Playgroundで見る](https://kifu.co/Agp4)
 
-戦型：居飛車-角交換振り飛車  
+戦型：居飛車-向かい飛車  
 手合割：平手
 
 [棋譜をDL](kifs/20240420_01.kif)  
