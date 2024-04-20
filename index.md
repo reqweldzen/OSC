@@ -28,10 +28,10 @@
 
 ### 第1局
 
-[![局面図](images/20240407_01_thumb.png)]()  
-[Shogi Playgroundで見る]()
+[![局面図](images/20240407_01_thumb.png)](https://kifu.co/7O3Z)  
+[Shogi Playgroundで見る](https://kifu.co/7O3Z)
 
-戦型：三間飛車-居飛車  
+戦型：居飛車-向かい飛車  
 手合割：平手
 
 [棋譜をDL](kifs/20240407_01.kif)  
@@ -39,10 +39,10 @@
 
 ### 第2局
 
-[![局面図](images/20240407_02_thumb.png)]()  
-[Shogi Playgroundで見る]()
+[![局面図](images/20240407_02_thumb.png)](https://kifu.co/EM9M)  
+[Shogi Playgroundで見る](https://kifu.co/EM9M)
 
-戦型：三間飛車-居飛車  
+戦型：向かい飛車-居飛車  
 手合割：平手
 
 [棋譜をDL](kifs/20240407_02.kif)  
@@ -50,10 +50,10 @@
 
 ### 第3局
 
-[![局面図](images/20240407_03_thumb.png)]()  
-[Shogi Playgroundで見る]()
+[![局面図](images/20240407_03_thumb.png)](https://kifu.co/JWpM)  
+[Shogi Playgroundで見る](https://kifu.co/JWpM)
 
-戦型：三間飛車-居飛車  
+戦型：居飛車-角交換振り飛車  
 手合割：平手
 
 [棋譜をDL](kifs/20240407_03.kif)  
@@ -61,10 +61,10 @@
 
 ### 第4局
 
-[![局面図](images/20240407_04_thumb.png)]()  
-[Shogi Playgroundで見る]()
+[![局面図](images/20240407_04_thumb.png)](https://kifu.co/dDWq)  
+[Shogi Playgroundで見る](https://kifu.co/dDWq)
 
-戦型：三間飛車-居飛車  
+戦型：向かい飛車-居飛車  
 手合割：平手
 
 [棋譜をDL](kifs/20240407_04.kif)  
@@ -72,10 +72,10 @@
 
 ### 第5局
 
-[![局面図](images/20240407_05_thumb.png)]()  
-[Shogi Playgroundで見る]()
+[![局面図](images/20240407_05_thumb.png)](https://kifu.co/V4E6)  
+[Shogi Playgroundで見る](https://kifu.co/V4E6)
 
-戦型：三間飛車-居飛車  
+戦型：居飛車-角交換振り飛車  
 手合割：平手
 
 [棋譜をDL](kifs/20240407_05.kif)  
