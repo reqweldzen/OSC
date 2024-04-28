@@ -137,3 +137,60 @@
 
 [棋譜をDL](kifs/20240420_01.kif)  
 [<img src="images/piyo_link.png" alt="piyo" width="100" />](piyoshogi://?url=https://reqweldzen.github.io/OSC/kifs/20240420_01.kif)
+
+### 2024-04-21
+
+### 第1局
+
+[![局面図](images/20240421_01_thumb.png)](https://kifu.co/8RJX)  
+[Shogi Playgroundで見る](https://kifu.co/8RJX)
+
+戦型：居飛車-向かい飛車  
+手合割：平手
+
+[棋譜をDL](kifs/20240421_01.kif)  
+[<img src="images/piyo_link.png" alt="piyo" width="100" />](piyoshogi://?url=https://reqweldzen.github.io/OSC/kifs/20240421_01.kif)
+
+### 第2局
+
+[![局面図](images/20240421_02_thumb.png)](https://kifu.co/V4gR)  
+[Shogi Playgroundで見る](https://kifu.co/V4gR)
+
+戦型：向かい飛車-居飛車  
+手合割：平手
+
+[棋譜をDL](kifs/20240421_02.kif)  
+[<img src="images/piyo_link.png" alt="piyo" width="100" />](piyoshogi://?url=https://reqweldzen.github.io/OSC/kifs/20240421_02.kif)
+
+### 第3局
+
+[![局面図](images/20240421_03_thumb.png)](https://kifu.co/p8nM)  
+[Shogi Playgroundで見る](https://kifu.co/p8nM)
+
+戦型：居飛車-角交換振り飛車  
+手合割：平手
+
+[棋譜をDL](kifs/20240421_03.kif)  
+[<img src="images/piyo_link.png" alt="piyo" width="100" />](piyoshogi://?url=https://reqweldzen.github.io/OSC/kifs/20240421_03.kif)
+
+### 第4局
+
+[![局面図](images/20240421_04_thumb.png)](https://kifu.co/rXbW)  
+[Shogi Playgroundで見る](https://kifu.co/rXbW)
+
+戦型：角交換振り飛車-居飛車  
+手合割：平手
+
+[棋譜をDL](kifs/20240421_04.kif)  
+[<img src="images/piyo_link.png" alt="piyo" width="100" />](piyoshogi://?url=https://reqweldzen.github.io/OSC/kifs/20240421_04.kif)
+
+### 第5局
+
+[![局面図](images/20240421_05_thumb.png)](https://kifu.co/wvLe)  
+[Shogi Playgroundで見る](https://kifu.co/wvLe)
+
+戦型：居飛車-角交換振り飛車  
+手合割：平手
+
+[棋譜をDL](kifs/20240421_05.kif)  
+[<img src="images/piyo_link.png" alt="piyo" width="100" />](piyoshogi://?url=https://reqweldzen.github.io/OSC/kifs/20240421_05.kif)
